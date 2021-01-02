@@ -33,6 +33,7 @@ More detial please refer to the report.
 ## Output
 1. Report
 2. Visualisation Link: https://sch405.shinyapps.io/ModelSelection/
+(It may not open properly for the SavedModels are not added successfully in the server of this path.)
 
 
 Notice:
