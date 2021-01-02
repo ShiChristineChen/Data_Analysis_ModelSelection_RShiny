@@ -1,0 +1,12 @@
+name: ModelSelection
+title: ModelSelection
+username:
+account: sch405
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 3438406
+bundleId: 4049397
+url: https://sch405.shinyapps.io/ModelSelection/
+when: 1609550677.19032
+asMultiple: FALSE
+asStatic: FALSE
